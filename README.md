@@ -37,7 +37,7 @@ Value Proposition
 Uber positions itself as a convenient and reliable transportation solution, offering users easy access to rides through its mobile platform.
 
 
-## Pricing Strategy
+### Pricing Strategy
 
 Uber uses a dynamic pricing model, which includes:
 
@@ -52,7 +52,7 @@ Surge pricing during high demand
 This model allows Uber to balance supply and demand, but can result in higher prices for users.
 
 
-## Revenue Model
+### Revenue Model
 Uber generates revenue primarily through:
 
 Commission on driver earnings (typically 20–25%)
@@ -62,7 +62,7 @@ Service fees charged to users
 This model ensures scalability but can create pressure on driver earnings.
 
 
-## Geographic Reach
+### Geographic Reach
 Uber operates in multiple countries and major cities, giving it:
 
 Strong brand recognition
@@ -72,7 +72,7 @@ Large user base
 Global market presence
 
 
-## Strengths
+### Strengths
 
 Strong global brand
 
@@ -83,7 +83,7 @@ Advanced app and technology
 Efficient matching of riders and drivers
 
 
-## Weaknesses
+### Weaknesses
 
 High competition from lower-cost platforms
 
@@ -92,7 +92,7 @@ Driver dissatisfaction due to commission structure
 Price sensitivity among users
 
 
-## Key Insights
+### Key Insights
 
 Uber’s strength lies in scale, technology, and convenience
 
@@ -103,7 +103,7 @@ Driver retention is a key challenge due to commission rates
 Price competition remains a major factor in the market
 
 
-## Recommendations for Signtel
+### Recommendations for Signtel
 
 Based on the analysis:
 
@@ -118,7 +118,7 @@ Ensure consistent and reliable service delivery
 Leverage data to optimize pricing and operations
 
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 Competitive Analysis
 
@@ -133,7 +133,7 @@ Insight Generation
 Communication of Findings
 
 
-## Limitations
+### Limitations
 
 Analysis based on secondary research
 
@@ -142,5 +142,5 @@ Limited access to internal company data
 Market conditions may change over time
 
 
-## What I Learned
+### What I Learned
 This project helped me understand how to break down a company’s strategy into clear components and connect those insights to real business decisions. It also improved my ability to work collaboratively while contributing meaningful individual analysis.
